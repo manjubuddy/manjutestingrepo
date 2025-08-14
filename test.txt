@@ -1,4 +1,5 @@
 #im in main branch
-echo im in test file fom main branch
-echo i have erased the command from git bash and entered new command from github
+echo im in test file from main branch
+echo im editing in github as user b
+
 
