@@ -1,4 +1,2 @@
-#master branch
-echo master branch
-#feature branch
-echo feature branch
+#main branch
+echo im in main branch
