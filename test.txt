@@ -1,4 +1,4 @@
 #im in main branch
 echo im in test file fom main branch
-echo im the other user
+echo im editing the 2nd of code from command
 
