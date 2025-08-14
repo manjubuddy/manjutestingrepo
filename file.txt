@@ -1,6 +1,3 @@
 #main branch
-echo im in main branch
-#im in feature branch
-echo feature branch
-#inserting line 1 in feature branch
-echo line 1 code
+echo Hi all im in main branch now
+
